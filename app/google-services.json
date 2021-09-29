@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "981711353531",
+    "firebase_url": "https://edu-app-8666f-default-rtdb.firebaseio.com",
+    "project_id": "edu-app-8666f",
+    "storage_bucket": "edu-app-8666f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981711353531:android:7880f867cbd1eb3ad1db9e",
+        "android_client_info": {
+          "package_name": "com.tecxpert.eduapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981711353531-cenbmt0836u58n1esncm7c7vc8cv8g8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFMHySjgzne9MrGBTs6ogxIf_zkiOzdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981711353531-cenbmt0836u58n1esncm7c7vc8cv8g8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981711353531:android:970fce4bfc2e25ddd1db9e",
+        "android_client_info": {
+          "package_name": "com.tecxpert.myeduapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981711353531-cenbmt0836u58n1esncm7c7vc8cv8g8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFMHySjgzne9MrGBTs6ogxIf_zkiOzdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981711353531-cenbmt0836u58n1esncm7c7vc8cv8g8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
